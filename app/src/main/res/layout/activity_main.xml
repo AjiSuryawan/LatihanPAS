@@ -34,7 +34,7 @@
         android:layout_margin="20dp"
         android:layout_height="wrap_content"
         android:text="Login"
-        android:textColor="@android:color/white" />
+        android:textColor="#E90E0E" />
 
     <Button
         android:id="@+id/BtnRegister"
@@ -42,7 +42,7 @@
         android:layout_margin="20dp"
         android:layout_height="wrap_content"
         android:text="register"
-        android:textColor="@android:color/white" />
+        android:textColor="#E90E0E" />
 
     <Button
         android:id="@+id/BtnSign"
@@ -50,6 +50,6 @@
         android:layout_margin="20dp"
         android:layout_height="wrap_content"
         android:text="SIGN UP"
-        android:textColor="@android:color/white" />
+        android:textColor="#E90E0E" />
 
 </LinearLayout>
