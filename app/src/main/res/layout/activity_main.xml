@@ -44,4 +44,12 @@
         android:text="register"
         android:textColor="@android:color/white" />
 
+    <Button
+        android:id="@+id/BtnSign"
+        android:layout_width="match_parent"
+        android:layout_margin="20dp"
+        android:layout_height="wrap_content"
+        android:text="SIGN UP"
+        android:textColor="@android:color/white" />
+
 </LinearLayout>
